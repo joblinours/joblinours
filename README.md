@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a bash forensic tool<br>🤝 I’m looking for help with C language<br>🌱 I’m currently learning in-depth pentesting<br>
+🔭 I’m currently working on a CVE reporting tool<br>🤝 I’m looking for help with C language<br>🌱 I’m currently learning in-depth pentesting<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-joblin) 
